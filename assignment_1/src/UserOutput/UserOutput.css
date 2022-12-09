@@ -1,0 +1,7 @@
+.output {
+  width: 50%;
+  margin: 10px auto;
+  padding: 5px;
+  border: 2px solid red;
+  box-shadow: 10px 8px #eee;
+}
